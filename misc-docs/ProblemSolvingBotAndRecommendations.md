@@ -11,4 +11,4 @@
 # **Quick Win Recommendations**
 * Move from changing passwords every 3 months to not having to change passwords
 * Create self-serve password reset tool 
-* Recommend to put a notice on website and other visable areas of known/current outages 
+* Recommend to put a notice on website and other visible areas of known/current outages
